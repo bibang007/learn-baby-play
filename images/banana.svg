@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- banana -->
+  <path d="M34 78 C40 40 78 28 104 40 C96 48 90 70 78 90 C66 108 46 104 34 78 Z" fill="#f6d34d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 42 L108 30" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

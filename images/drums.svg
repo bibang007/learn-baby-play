@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- drums -->
+  <ellipse cx="46" cy="70" rx="24" ry="12" fill="#f2c14d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 70 V92 Q46 108 70 92 V70" fill="#e07a4a" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="86" cy="78" rx="18" ry="10" fill="#f6d38a" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M68 78 V94 Q86 106 104 94 V78" fill="#c9844a" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 40 L46 64 M100 36 L90 70" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

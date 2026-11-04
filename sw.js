@@ -1,4 +1,4 @@
-const CACHE = 'learn-baby-v3';
+const CACHE = 'learn-baby-v4';
 const SHELL = [
   './index.html',
   './manifest.webmanifest',

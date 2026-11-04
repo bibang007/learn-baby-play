@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- water -->
+  <path d="M64 22 C64 22 34 62 34 82 C34 102 48 114 64 114 C80 114 94 102 94 82 C94 62 64 22 64 22 Z" fill="#5eb0e8" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 78 Q60 70 68 80" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- seven -->
+  <circle cx="64" cy="28" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="52" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="88" cy="52" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="78" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="88" cy="78" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="102" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="80" cy="102" r="11" fill="#ff8a3d" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

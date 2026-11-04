@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- elephant -->
+  <ellipse cx="62" cy="78" rx="34" ry="26" fill="#b9c4d4" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="86" cy="58" r="18" fill="#b9c4d4" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="70" cy="48" rx="10" ry="14" fill="#d5dce6" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 70 Q110 96 90 100" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90" cy="56" r="2.4" fill="#243044"/>
+  <circle cx="40" cy="96" r="6" fill="#b9c4d4" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="70" cy="100" r="6" fill="#b9c4d4" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

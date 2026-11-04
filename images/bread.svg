@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- bread -->
+  <path d="M28 70 Q28 42 64 42 Q100 42 100 70 V88 Q100 100 64 100 Q28 100 28 88 Z" fill="#e7b15a" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 64 H52 M64 58 V72 M76 64 H88" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

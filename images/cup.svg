@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- cup -->
+  <path d="M40 40 H88 L80 100 H48 Z" fill="#fff" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 52 H100 Q112 52 112 68 Q112 84 96 84 H84" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 28 Q48 20 52 32" fill="none" stroke="#b9c4d4" stroke-width="4" stroke-linecap="round"/>
+</svg>

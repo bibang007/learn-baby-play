@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- ear -->
+  <path d="M48 96 C28 96 24 40 52 28 C78 16 104 36 100 70 C96 96 78 96 70 96" fill="#f6c7a8" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 90 C46 88 44 52 62 42 C78 34 90 50 86 74" fill="#f3a7b5" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

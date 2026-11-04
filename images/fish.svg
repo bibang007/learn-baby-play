@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- fish -->
+  <ellipse cx="58" cy="66" rx="32" ry="20" fill="#f08a3c" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 66 L116 46 L112 66 L116 86 Z" fill="#f08a3c" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="62" r="3" fill="#243044"/>
+  <path d="M48 78 Q58 86 70 78" fill="none" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

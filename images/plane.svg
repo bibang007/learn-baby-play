@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- plane -->
+  <path d="M20 70 L108 54 L108 66 L64 74 L58 96 L46 92 L52 72 Z" fill="#d9e4f2" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 62 L96 48 L100 54 L74 68" fill="#f08a24" stroke="#243044" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
